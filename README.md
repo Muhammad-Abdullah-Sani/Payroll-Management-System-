@@ -2,7 +2,6 @@
 
 A C++ console-based Payroll Management System that allows admins and employees to manage payroll operations efficiently. The system tracks employee data, attendance, and calculates payroll, with data stored in text files for persistence.
 
----
 
 ## Features
 
@@ -23,7 +22,7 @@ A C++ console-based Payroll Management System that allows admins and employees t
 - Generates simple salary reports for employees.
 
 ### File-based Persistence
-- Employee and payroll data are stored in text files (`.txt`) to maintain data between sessions.
+- Employee and payroll data are stored in text files (.txt) to maintain data between sessions.
 
 ### Interactive Menu System
 - Separate menus for admins and employees for easier navigation.  
